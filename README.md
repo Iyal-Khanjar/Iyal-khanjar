@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Iyal-Khanjar/Iyal-khanjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Iyal Khanjar from Israel, Julis Village, I'm a full stack web developer and currntly looking for my first job.
+___
 
-Here are some ideas to get you started:
+---
+### connect with me:
+[<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
+[<img align="left" alt="instagram" width="24px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
+[<img align="left" alt="facebook" width="24px" src="https://github.com/rawi123/images/blob/main/facebook.png"/>][facebook]
+<br />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+#### Programing languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
+3. html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
+4. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
+5. python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
+---
+#### languages i speak fluently
+1. english
+2. arabic
+3. hebrew
+
+[protfolio]: https://rawi-protfolio.netlify.app/ "Rawi Lahiany protfolio"
+[facebook]: https://www.facebook.com/rawi.lahyani "Rawi Lahiany facebook"
+[instagram]: https://www.instagram.com/rawi_lahiany/ "Rawi Lahiany instagram"
+<!-- [linkedin]: "Rawi Lahiany linkedin" -->
