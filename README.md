@@ -4,7 +4,7 @@ I'm Iyal Khanjar from Israel, Julis Village, I'm a full stack web developer and 
 ___
 Check My Portfolio:
  <img align="left" src="https://github.com/Iyal-Khanjar/Iyal-khanjar/blob/main/Porfolio%20image.png" width="500" height="320" />
-___
+---
 ### connect with me:
 [<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
 [<img align="left" alt="instagram" width="24px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
