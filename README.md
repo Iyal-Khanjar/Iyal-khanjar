@@ -2,6 +2,7 @@
 
 I'm Iyal Khanjar from Israel, Julis Village, I'm a full stack web developer and currntly looking for my first job.
 ___
+Check My Portfolio:
 
 ### connect with me:
 [<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
