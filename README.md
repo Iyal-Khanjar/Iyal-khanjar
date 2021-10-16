@@ -3,13 +3,14 @@
 I'm Iyal Khanjar from Israel, Julis Village, I'm a full stack web developer and currntly looking for my first job.
 ___
 Check My Portfolio:
+ <img align="left" src="https://github.com/Iyal-Khanjar/Iyal-khanjar/blob/main/Porfolio%20image.png" width="500" height="320" />
 
 ### connect with me:
 [<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
 [<img align="left" alt="instagram" width="24px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
 [<img align="left" alt="facebook" width="24px" src="https://github.com/rawi123/images/blob/main/facebook.png"/>][facebook]
 <br />
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 #### Programing languages:
 
 1. javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
