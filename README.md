@@ -5,25 +5,4 @@ ___
 Check My Portfolio:
  <img align="left" src="https://github.com/Iyal-Khanjar/Iyal-khanjar/blob/main/Porfolio%20image.png" width="500" height="320" />
 ---
-### connect with me:
-[<img align="left" alt="protfolio" width="24px" src="https://github.com/rawi123/images/blob/main/protfolio.png"/>][protfolio]
-[<img align="left" alt="instagram" width="24px" src="https://github.com/rawi123/images/blob/main/instagram.png"/>][instagram]
-[<img align="left" alt="facebook" width="24px" src="https://github.com/rawi123/images/blob/main/facebook.png"/>][facebook]
-<br />
 
-#### Programing languages:
-
-1. javascript <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/js.png"/>
-3. html <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/html.png"/>
-4. Css <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/css.png"/>
-5. python <img align="center" width="26px" src="https://github.com/rawi123/images/blob/main/python.png"/>
----
-#### languages i speak fluently
-1. english
-2. arabic
-3. hebrew
-
-[protfolio]: https://rawi-protfolio.netlify.app/ "Rawi Lahiany protfolio"
-[facebook]: https://www.facebook.com/rawi.lahyani "Rawi Lahiany facebook"
-[instagram]: https://www.instagram.com/rawi_lahiany/ "Rawi Lahiany instagram"
-<!-- [linkedin]: "Rawi Lahiany linkedin" -->
