@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iyal Khanjar</h1>
 <h3 align="center">Full-Stack developer from Israel</h3>
 
-- 👨‍💻 All of my projects are available at [https://iyal-portfolio.netlify.app/](https://iyal-portfolio.netlify.app/)
+- 👨‍💻 
 - B.E.D degree computer science and mathematics.
 currently looking for a job as a full stack developer  
 - 📫 How to reach me **ayalKhanjar@gmail.com**
